@@ -12,7 +12,9 @@
 1) Put the Client_Secret & Client_Id for Google in the passport.js file.
 2) Put the Client_Secret & Client_Id for Github in Passport.js File.
 3) Put the Client_Secret & Client_Id for Discord in Passport.js File.
-
+4) Mention http://your_localhost_name/auth/google/callback for google in google developers portal
+5) Mention http://your_localhost_name/auth/github/callback for github in github developers portal
+6) Mention http://your_localhost_name/auth/discord/callback for discord in discord developers portal 
 
 `{ - Google Client Secret & Client ID can be recieved from google/developers portal }`
 `{ - Github Client Secret & Client ID can be recieved from github/settings/application}`
